@@ -10,4 +10,8 @@ class SiteController extends Controller {
         return 'Hello World!';
     }
 
+    public function actionIndex2() {
+        return 'Hello World!';
+    }
+
 }

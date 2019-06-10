@@ -1,0 +1,53 @@
+{
+    "name": "faridlesosibirsk/admin",
+    "description": "yii2 admin",
+    "type": "project",
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "faridlesosibirsk",
+            "email": "farid.lfsibgtu.ru@mail.ru"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "yiisoft/yii2-swiftmailer": "~2.1.0",
+        "yiisoft/yii2-jui": "~2.0.0",
+        "yiisoft/yii2-redis": "~2.0.0",
+        "yiisoft/yii2-httpclient": "~2.0.0",
+        "yiisoft/yii2-authclient": "~2.1.0",
+        "yiisoft/yii2-imagine": "~2",
+        "yiisoft/yii2-twig": "~2.0.0",
+        "yiisoft/yii2-elasticsearch": "~2.0.0",
+        "yiisoft/yii2-apidoc": "~2.1.0",
+        "yiisoft/yii2-sphinx": "~2.0.0",
+        "yiisoft/yii2-smarty": "~2.0.0",
+        "yiisoft/yii2-shell": "~2.0.0",
+        "yiisoft/yii2-bootstrap4": "*",
+        "php": ">=7.2.0",
+        "yiisoft/yii2": "~2.0.20"
+    },
+    "require-dev": {
+        "yiisoft/yii2-debug": "~2.1.0",
+        "yiisoft/yii2-gii": "~2.1.0",
+        "yiisoft/yii2-faker": "~2.0.0",
+
+        "codeception/base": "~2.3.0",
+        "codeception/verify": "~0.4.0",
+        "codeception/specify": "~0.4.6",
+        "symfony/browser-kit": ">=2.7 <=4.2.4"
+    },
+    "autoload": {
+        "classmap": [
+            "models/"
+        ],
+        "psr-4": {           
+        }
+    },
+    "repositories": [
+        {
+            "type": "composer",
+            "url": "https://asset-packagist.org"
+        }
+    ]
+}

@@ -1,0 +1,1842 @@
+2019-06-08 12:58:02 [::1][-][-][error][yii\web\HttpException:404] yii\base\InvalidRouteException: Unable to resolve the request "". in /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/base/Module.php:537
+Stack trace:
+#0 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/web/Application.php(103): yii\base\Module->runAction('', Array)
+#1 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/base/Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 /home/farid/NetBeansProjects/admin/web/index.php(11): yii\base\Application->run()
+#3 {main}
+
+Next yii\web\NotFoundHttpException: Page not found. in /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/web/Application.php:115
+Stack trace:
+#0 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/base/Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#1 /home/farid/NetBeansProjects/admin/web/index.php(11): yii\base\Application->run()
+#2 {main}
+2019-06-08 12:58:02 [::1][-][-][info][application] $_GET = []
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = []
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/home/farid/NetBeansProjects/admin/web'
+    'REMOTE_ADDR' => '::1'
+    'REMOTE_PORT' => '52096'
+    'SERVER_SOFTWARE' => 'PHP 7.2.19-0ubuntu0.18.04.1 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '8080'
+    'REQUEST_URI' => '/'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/farid/NetBeansProjects/admin/web/index.php'
+    'PHP_SELF' => '/index.php'
+    'HTTP_HOST' => 'localhost:8080'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64; rv:67.0) Gecko/20100101 Firefox/67.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_DNT' => '1'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'REQUEST_TIME_FLOAT' => 1559998682.6559
+    'REQUEST_TIME' => 1559998682
+]
+2019-06-08 12:58:35 [::1][-][-][error][yii\web\HttpException:404] yii\base\InvalidRouteException: Unable to resolve the request "". in /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/base/Module.php:537
+Stack trace:
+#0 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/web/Application.php(103): yii\base\Module->runAction('', Array)
+#1 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/base/Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 /home/farid/NetBeansProjects/admin/web/index.php(11): yii\base\Application->run()
+#3 {main}
+
+Next yii\web\NotFoundHttpException: Page not found. in /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/web/Application.php:115
+Stack trace:
+#0 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/base/Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#1 /home/farid/NetBeansProjects/admin/web/index.php(11): yii\base\Application->run()
+#2 {main}
+2019-06-08 12:58:35 [::1][-][-][info][application] $_GET = []
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = []
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/home/farid/NetBeansProjects/admin/web'
+    'REMOTE_ADDR' => '::1'
+    'REMOTE_PORT' => '52098'
+    'SERVER_SOFTWARE' => 'PHP 7.2.19-0ubuntu0.18.04.1 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '8080'
+    'REQUEST_URI' => '/'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/farid/NetBeansProjects/admin/web/index.php'
+    'PHP_SELF' => '/index.php'
+    'HTTP_HOST' => 'localhost:8080'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64; rv:67.0) Gecko/20100101 Firefox/67.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_DNT' => '1'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'REQUEST_TIME_FLOAT' => 1559998715.9947
+    'REQUEST_TIME' => 1559998715
+]
+2019-06-08 13:48:15 [::1][-][-][error][yii\web\HttpException:404] yii\base\InvalidRouteException: Unable to resolve the request "country/index". in /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/base/Module.php:537
+Stack trace:
+#0 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/web/Application.php(103): yii\base\Module->runAction('country/index', Array)
+#1 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/base/Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 /home/farid/NetBeansProjects/admin/web/index.php(11): yii\base\Application->run()
+#3 {main}
+
+Next yii\web\NotFoundHttpException: Page not found. in /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/web/Application.php:115
+Stack trace:
+#0 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/base/Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#1 /home/farid/NetBeansProjects/admin/web/index.php(11): yii\base\Application->run()
+#2 {main}
+2019-06-08 13:48:15 [::1][-][-][info][application] $_GET = [
+    'r' => 'country/index'
+]
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = []
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/home/farid/NetBeansProjects/admin/web'
+    'REMOTE_ADDR' => '::1'
+    'REMOTE_PORT' => '52950'
+    'SERVER_SOFTWARE' => 'PHP 7.2.19-0ubuntu0.18.04.1 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '8080'
+    'REQUEST_URI' => '/index.php?r=country%2Findex'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/farid/NetBeansProjects/admin/web/index.php'
+    'PHP_SELF' => '/index.php'
+    'QUERY_STRING' => 'r=country%2Findex'
+    'HTTP_HOST' => 'localhost:8080'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64; rv:67.0) Gecko/20100101 Firefox/67.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_DNT' => '1'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'REQUEST_TIME_FLOAT' => 1560001695.4765
+    'REQUEST_TIME' => 1560001695
+]
+2019-06-08 13:48:36 [::1][-][-][error][yii\web\HttpException:404] yii\base\InvalidRouteException: Unable to resolve the request "country/index". in /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/base/Module.php:537
+Stack trace:
+#0 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/web/Application.php(103): yii\base\Module->runAction('country/index', Array)
+#1 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/base/Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 /home/farid/NetBeansProjects/admin/web/index.php(11): yii\base\Application->run()
+#3 {main}
+
+Next yii\web\NotFoundHttpException: Page not found. in /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/web/Application.php:115
+Stack trace:
+#0 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/base/Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#1 /home/farid/NetBeansProjects/admin/web/index.php(11): yii\base\Application->run()
+#2 {main}
+2019-06-08 13:48:36 [::1][-][-][info][application] $_GET = [
+    'r' => 'country/index'
+]
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = []
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/home/farid/NetBeansProjects/admin/web'
+    'REMOTE_ADDR' => '::1'
+    'REMOTE_PORT' => '52952'
+    'SERVER_SOFTWARE' => 'PHP 7.2.19-0ubuntu0.18.04.1 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '8080'
+    'REQUEST_URI' => '/index.php?r=country%2Findex'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/farid/NetBeansProjects/admin/web/index.php'
+    'PHP_SELF' => '/index.php'
+    'QUERY_STRING' => 'r=country%2Findex'
+    'HTTP_HOST' => 'localhost:8080'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64; rv:67.0) Gecko/20100101 Firefox/67.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_DNT' => '1'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'REQUEST_TIME_FLOAT' => 1560001716.3303
+    'REQUEST_TIME' => 1560001716
+]
+2019-06-09 10:37:00 [127.0.0.1][-][-][error][yii\web\HttpException:404] yii\base\InvalidRouteException: Unable to resolve the request "country/index". in /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/base/Module.php:537
+Stack trace:
+#0 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/web/Application.php(103): yii\base\Module->runAction('country/index', Array)
+#1 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/base/Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 /home/farid/NetBeansProjects/admin/web/index.php(11): yii\base\Application->run()
+#3 {main}
+
+Next yii\web\NotFoundHttpException: Page not found. in /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/web/Application.php:115
+Stack trace:
+#0 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/base/Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#1 /home/farid/NetBeansProjects/admin/web/index.php(11): yii\base\Application->run()
+#2 {main}
+2019-06-09 10:37:00 [127.0.0.1][-][-][info][application] $_GET = [
+    'r' => 'country/index'
+]
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = []
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/home/farid/NetBeansProjects/admin/web'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '48994'
+    'SERVER_SOFTWARE' => 'PHP 7.2.19-0ubuntu0.18.04.1 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => '127.0.0.1'
+    'SERVER_PORT' => '8080'
+    'REQUEST_URI' => '/index.php?r=country%2Findex'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/farid/NetBeansProjects/admin/web/index.php'
+    'PHP_SELF' => '/index.php'
+    'QUERY_STRING' => 'r=country%2Findex'
+    'HTTP_HOST' => 'localhost:8080'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64; rv:67.0) Gecko/20100101 Firefox/67.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_DNT' => '1'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'REQUEST_TIME_FLOAT' => 1560076620.2561
+    'REQUEST_TIME' => 1560076620
+]
+2019-06-09 10:41:11 [127.0.0.1][-][-][error][yii\web\HttpException:404] yii\base\InvalidRouteException: Unable to resolve the request "country/index". in /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/base/Module.php:537
+Stack trace:
+#0 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/web/Application.php(103): yii\base\Module->runAction('country/index', Array)
+#1 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/base/Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 /home/farid/NetBeansProjects/admin/web/index.php(11): yii\base\Application->run()
+#3 {main}
+
+Next yii\web\NotFoundHttpException: Page not found. in /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/web/Application.php:115
+Stack trace:
+#0 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/base/Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#1 /home/farid/NetBeansProjects/admin/web/index.php(11): yii\base\Application->run()
+#2 {main}
+2019-06-09 10:41:11 [127.0.0.1][-][-][info][application] $_GET = [
+    'r' => 'country/index'
+]
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = []
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/home/farid/NetBeansProjects/admin/web'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '49076'
+    'SERVER_SOFTWARE' => 'PHP 7.2.19-0ubuntu0.18.04.1 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => '127.0.0.1'
+    'SERVER_PORT' => '8080'
+    'REQUEST_URI' => '/index.php?r=country%2Findex'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/farid/NetBeansProjects/admin/web/index.php'
+    'PHP_SELF' => '/index.php'
+    'QUERY_STRING' => 'r=country%2Findex'
+    'HTTP_HOST' => 'localhost:8080'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64; rv:67.0) Gecko/20100101 Firefox/67.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_DNT' => '1'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'REQUEST_TIME_FLOAT' => 1560076871.8667
+    'REQUEST_TIME' => 1560076871
+]
+2019-06-09 10:41:18 [127.0.0.1][-][-][error][yii\web\HttpException:404] yii\base\InvalidRouteException: Unable to resolve the request "country/index". in /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/base/Module.php:537
+Stack trace:
+#0 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/web/Application.php(103): yii\base\Module->runAction('country/index', Array)
+#1 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/base/Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 /home/farid/NetBeansProjects/admin/web/index.php(11): yii\base\Application->run()
+#3 {main}
+
+Next yii\web\NotFoundHttpException: Page not found. in /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/web/Application.php:115
+Stack trace:
+#0 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/base/Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#1 /home/farid/NetBeansProjects/admin/web/index.php(11): yii\base\Application->run()
+#2 {main}
+2019-06-09 10:41:18 [127.0.0.1][-][-][info][application] $_GET = [
+    'r' => 'country/index'
+]
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = []
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/home/farid/NetBeansProjects/admin/web'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '49078'
+    'SERVER_SOFTWARE' => 'PHP 7.2.19-0ubuntu0.18.04.1 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => '127.0.0.1'
+    'SERVER_PORT' => '8080'
+    'REQUEST_URI' => '/index.php?r=country%2Findex'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/farid/NetBeansProjects/admin/web/index.php'
+    'PHP_SELF' => '/index.php'
+    'QUERY_STRING' => 'r=country%2Findex'
+    'HTTP_HOST' => 'localhost:8080'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64; rv:67.0) Gecko/20100101 Firefox/67.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_DNT' => '1'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'REQUEST_TIME_FLOAT' => 1560076878.1784
+    'REQUEST_TIME' => 1560076878
+]
+2019-06-09 10:42:17 [127.0.0.1][-][-][error][yii\db\Exception] PDOException: SQLSTATE[HY000] [1698] Access denied for user 'yii2basic'@'localhost' in /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/db/Connection.php:687
+Stack trace:
+#0 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/db/Connection.php(687): PDO->__construct('mysql:host=loca...', 'yii2basic', '1234', NULL)
+#1 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/db/Connection.php(613): yii\db\Connection->createPdoInstance()
+#2 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/db/Connection.php(996): yii\db\Connection->open()
+#3 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/db/Connection.php(983): yii\db\Connection->getMasterPdo()
+#4 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/db/mysql/QueryBuilder.php(380): yii\db\Connection->getSlavePdo()
+#5 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/db/mysql/QueryBuilder.php(399): yii\db\mysql\QueryBuilder->supportsFractionalSeconds()
+#6 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/db/mysql/QueryBuilder.php(57): yii\db\mysql\QueryBuilder->defaultTimeTypeMap()
+#7 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/base/BaseObject.php(109): yii\db\mysql\QueryBuilder->init()
+#8 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/db/QueryBuilder.php(116): yii\base\BaseObject->__construct(Array)
+#9 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/db/mysql/Schema.php(217): yii\db\QueryBuilder->__construct(Object(yii\db\Connection))
+#10 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/db/Schema.php(249): yii\db\mysql\Schema->createQueryBuilder()
+#11 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/db/Connection.php(836): yii\db\Schema->getQueryBuilder()
+#12 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/db/ActiveQuery.php(328): yii\db\Connection->getQueryBuilder()
+#13 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/db/Query.php(456): yii\db\ActiveQuery->createCommand(Object(yii\db\Connection))
+#14 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/db/ActiveQuery.php(352): yii\db\Query->queryScalar('COUNT(*)', Object(yii\db\Connection))
+#15 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/db/Query.php(347): yii\db\ActiveQuery->queryScalar('COUNT(*)', Object(yii\db\Connection))
+#16 /home/farid/NetBeansProjects/admin/controllers/CountryController.php(16): yii\db\Query->count()
+#17 [internal function]: micro\controllers\CountryController->actionIndex()
+#18 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/base/InlineAction.php(57): call_user_func_array(Array, Array)
+#19 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/base/Controller.php(157): yii\base\InlineAction->runWithParams(Array)
+#20 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/base/Module.php(528): yii\base\Controller->runAction('index', Array)
+#21 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/web/Application.php(103): yii\base\Module->runAction('country/index', Array)
+#22 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/base/Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#23 /home/farid/NetBeansProjects/admin/web/index.php(11): yii\base\Application->run()
+#24 {main}
+
+Next yii\db\Exception: SQLSTATE[HY000] [1698] Access denied for user 'yii2basic'@'localhost' in /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/db/Connection.php:624
+Stack trace:
+#0 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/db/Connection.php(996): yii\db\Connection->open()
+#1 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/db/Connection.php(983): yii\db\Connection->getMasterPdo()
+#2 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/db/mysql/QueryBuilder.php(380): yii\db\Connection->getSlavePdo()
+#3 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/db/mysql/QueryBuilder.php(399): yii\db\mysql\QueryBuilder->supportsFractionalSeconds()
+#4 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/db/mysql/QueryBuilder.php(57): yii\db\mysql\QueryBuilder->defaultTimeTypeMap()
+#5 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/base/BaseObject.php(109): yii\db\mysql\QueryBuilder->init()
+#6 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/db/QueryBuilder.php(116): yii\base\BaseObject->__construct(Array)
+#7 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/db/mysql/Schema.php(217): yii\db\QueryBuilder->__construct(Object(yii\db\Connection))
+#8 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/db/Schema.php(249): yii\db\mysql\Schema->createQueryBuilder()
+#9 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/db/Connection.php(836): yii\db\Schema->getQueryBuilder()
+#10 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/db/ActiveQuery.php(328): yii\db\Connection->getQueryBuilder()
+#11 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/db/Query.php(456): yii\db\ActiveQuery->createCommand(Object(yii\db\Connection))
+#12 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/db/ActiveQuery.php(352): yii\db\Query->queryScalar('COUNT(*)', Object(yii\db\Connection))
+#13 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/db/Query.php(347): yii\db\ActiveQuery->queryScalar('COUNT(*)', Object(yii\db\Connection))
+#14 /home/farid/NetBeansProjects/admin/controllers/CountryController.php(16): yii\db\Query->count()
+#15 [internal function]: micro\controllers\CountryController->actionIndex()
+#16 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/base/InlineAction.php(57): call_user_func_array(Array, Array)
+#17 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/base/Controller.php(157): yii\base\InlineAction->runWithParams(Array)
+#18 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/base/Module.php(528): yii\base\Controller->runAction('index', Array)
+#19 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/web/Application.php(103): yii\base\Module->runAction('country/index', Array)
+#20 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/base/Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#21 /home/farid/NetBeansProjects/admin/web/index.php(11): yii\base\Application->run()
+#22 {main}
+Additional Information:
+
+2019-06-09 10:42:17 [127.0.0.1][-][-][info][application] $_GET = [
+    'r' => 'country/index'
+]
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = []
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/home/farid/NetBeansProjects/admin/web'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '49080'
+    'SERVER_SOFTWARE' => 'PHP 7.2.19-0ubuntu0.18.04.1 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => '127.0.0.1'
+    'SERVER_PORT' => '8080'
+    'REQUEST_URI' => '/index.php?r=country%2Findex'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/farid/NetBeansProjects/admin/web/index.php'
+    'PHP_SELF' => '/index.php'
+    'QUERY_STRING' => 'r=country%2Findex'
+    'HTTP_HOST' => 'localhost:8080'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64; rv:67.0) Gecko/20100101 Firefox/67.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_DNT' => '1'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'REQUEST_TIME_FLOAT' => 1560076937.7592
+    'REQUEST_TIME' => 1560076937
+]
+2019-06-09 10:44:30 [127.0.0.1][-][-][error][yii\base\ViewNotFoundException] yii\base\ViewNotFoundException: The view file does not exist: /home/farid/NetBeansProjects/admin/views/layouts/main.php in /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/base/View.php:233
+Stack trace:
+#0 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/base/Controller.php(399): yii\base\View->renderFile('/home/farid/Net...', Array, Object(micro\controllers\CountryController))
+#1 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/base/Controller.php(385): yii\base\Controller->renderContent('<h1>Countries</...')
+#2 /home/farid/NetBeansProjects/admin/controllers/CountryController.php(26): yii\base\Controller->render('index', Array)
+#3 [internal function]: micro\controllers\CountryController->actionIndex()
+#4 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/base/InlineAction.php(57): call_user_func_array(Array, Array)
+#5 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/base/Controller.php(157): yii\base\InlineAction->runWithParams(Array)
+#6 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/base/Module.php(528): yii\base\Controller->runAction('index', Array)
+#7 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/web/Application.php(103): yii\base\Module->runAction('country/index', Array)
+#8 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/base/Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#9 /home/farid/NetBeansProjects/admin/web/index.php(11): yii\base\Application->run()
+#10 {main}
+2019-06-09 10:44:29 [127.0.0.1][-][-][info][application] $_GET = [
+    'r' => 'country/index'
+]
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = []
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/home/farid/NetBeansProjects/admin/web'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '49082'
+    'SERVER_SOFTWARE' => 'PHP 7.2.19-0ubuntu0.18.04.1 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => '127.0.0.1'
+    'SERVER_PORT' => '8080'
+    'REQUEST_URI' => '/index.php?r=country%2Findex'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/farid/NetBeansProjects/admin/web/index.php'
+    'PHP_SELF' => '/index.php'
+    'QUERY_STRING' => 'r=country%2Findex'
+    'HTTP_HOST' => 'localhost:8080'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64; rv:67.0) Gecko/20100101 Firefox/67.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_DNT' => '1'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'REQUEST_TIME_FLOAT' => 1560077069.9043
+    'REQUEST_TIME' => 1560077069
+]
+2019-06-09 10:46:16 [127.0.0.1][-][-][error][Error] Error: Class 'micro\models\Country' not found in /home/farid/NetBeansProjects/admin/controllers/CountryController.php:16
+Stack trace:
+#0 [internal function]: micro\controllers\CountryController->actionIndex1()
+#1 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/base/InlineAction.php(57): call_user_func_array(Array, Array)
+#2 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/base/Controller.php(157): yii\base\InlineAction->runWithParams(Array)
+#3 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/base/Module.php(528): yii\base\Controller->runAction('index1', Array)
+#4 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/web/Application.php(103): yii\base\Module->runAction('country/index1', Array)
+#5 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/base/Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#6 /home/farid/NetBeansProjects/admin/web/index.php(11): yii\base\Application->run()
+#7 {main}
+2019-06-09 10:46:16 [127.0.0.1][-][-][info][application] $_GET = [
+    'r' => 'country/index1'
+]
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = []
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/home/farid/NetBeansProjects/admin/web'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '49090'
+    'SERVER_SOFTWARE' => 'PHP 7.2.19-0ubuntu0.18.04.1 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => '127.0.0.1'
+    'SERVER_PORT' => '8080'
+    'REQUEST_URI' => '/index.php?r=country%2Findex1'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/farid/NetBeansProjects/admin/web/index.php'
+    'PHP_SELF' => '/index.php'
+    'QUERY_STRING' => 'r=country%2Findex1'
+    'HTTP_HOST' => 'localhost:8080'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64; rv:67.0) Gecko/20100101 Firefox/67.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_DNT' => '1'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'REQUEST_TIME_FLOAT' => 1560077176.8649
+    'REQUEST_TIME' => 1560077176
+]
+2019-06-09 10:46:46 [127.0.0.1][-][-][error][Error] Error: Class 'micro\models\Country' not found in /home/farid/NetBeansProjects/admin/controllers/CountryController.php:16
+Stack trace:
+#0 [internal function]: micro\controllers\CountryController->actionIndex()
+#1 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/base/InlineAction.php(57): call_user_func_array(Array, Array)
+#2 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/base/Controller.php(157): yii\base\InlineAction->runWithParams(Array)
+#3 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/base/Module.php(528): yii\base\Controller->runAction('index', Array)
+#4 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/web/Application.php(103): yii\base\Module->runAction('country/index', Array)
+#5 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/base/Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#6 /home/farid/NetBeansProjects/admin/web/index.php(11): yii\base\Application->run()
+#7 {main}
+2019-06-09 10:46:46 [127.0.0.1][-][-][info][application] $_GET = [
+    'r' => 'country/index'
+]
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = []
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/home/farid/NetBeansProjects/admin/web'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '49092'
+    'SERVER_SOFTWARE' => 'PHP 7.2.19-0ubuntu0.18.04.1 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => '127.0.0.1'
+    'SERVER_PORT' => '8080'
+    'REQUEST_URI' => '/index.php?r=country%2Findex'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/farid/NetBeansProjects/admin/web/index.php'
+    'PHP_SELF' => '/index.php'
+    'QUERY_STRING' => 'r=country%2Findex'
+    'HTTP_HOST' => 'localhost:8080'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64; rv:67.0) Gecko/20100101 Firefox/67.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_DNT' => '1'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'REQUEST_TIME_FLOAT' => 1560077206.9329
+    'REQUEST_TIME' => 1560077206
+]
+2019-06-09 10:50:55 [127.0.0.1][-][-][error][yii\base\ViewNotFoundException] yii\base\ViewNotFoundException: The view file does not exist: /home/farid/NetBeansProjects/admin/views/layouts/main.php in /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/base/View.php:233
+Stack trace:
+#0 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/base/Controller.php(399): yii\base\View->renderFile('/home/farid/Net...', Array, Object(micro\controllers\CountryController))
+#1 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/base/Controller.php(385): yii\base\Controller->renderContent('<h1>Countries</...')
+#2 /home/farid/NetBeansProjects/admin/controllers/CountryController.php(30): yii\base\Controller->render('index', Array)
+#3 [internal function]: micro\controllers\CountryController->actionIndex()
+#4 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/base/InlineAction.php(57): call_user_func_array(Array, Array)
+#5 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/base/Controller.php(157): yii\base\InlineAction->runWithParams(Array)
+#6 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/base/Module.php(528): yii\base\Controller->runAction('index', Array)
+#7 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/web/Application.php(103): yii\base\Module->runAction('country/index', Array)
+#8 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/base/Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#9 /home/farid/NetBeansProjects/admin/web/index.php(11): yii\base\Application->run()
+#10 {main}
+2019-06-09 10:50:55 [127.0.0.1][-][-][info][application] $_GET = [
+    'r' => 'country/index'
+]
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = []
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/home/farid/NetBeansProjects/admin/web'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '49236'
+    'SERVER_SOFTWARE' => 'PHP 7.2.19-0ubuntu0.18.04.1 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => '127.0.0.1'
+    'SERVER_PORT' => '8080'
+    'REQUEST_URI' => '/index.php?r=country%2Findex'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/farid/NetBeansProjects/admin/web/index.php'
+    'PHP_SELF' => '/index.php'
+    'QUERY_STRING' => 'r=country%2Findex'
+    'HTTP_HOST' => 'localhost:8080'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64; rv:67.0) Gecko/20100101 Firefox/67.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_DNT' => '1'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'REQUEST_TIME_FLOAT' => 1560077455.2398
+    'REQUEST_TIME' => 1560077455
+]
+2019-06-09 10:57:01 [127.0.0.1][-][-][error][yii\base\ViewNotFoundException] yii\base\ViewNotFoundException: The view file does not exist: /home/farid/NetBeansProjects/admin/views/layouts/main.php in /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/base/View.php:233
+Stack trace:
+#0 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/base/Controller.php(399): yii\base\View->renderFile('/home/farid/Net...', Array, Object(micro\controllers\CountryController))
+#1 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/base/Controller.php(385): yii\base\Controller->renderContent('<h1>Countries</...')
+#2 /home/farid/NetBeansProjects/admin/controllers/CountryController.php(30): yii\base\Controller->render('index', Array)
+#3 [internal function]: micro\controllers\CountryController->actionIndex()
+#4 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/base/InlineAction.php(57): call_user_func_array(Array, Array)
+#5 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/base/Controller.php(157): yii\base\InlineAction->runWithParams(Array)
+#6 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/base/Module.php(528): yii\base\Controller->runAction('index', Array)
+#7 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/web/Application.php(103): yii\base\Module->runAction('country/index', Array)
+#8 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/base/Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#9 /home/farid/NetBeansProjects/admin/web/index.php(11): yii\base\Application->run()
+#10 {main}
+2019-06-09 10:57:01 [127.0.0.1][-][-][info][application] $_GET = [
+    'r' => 'country/index'
+]
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = []
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/home/farid/NetBeansProjects/admin/web'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '49238'
+    'SERVER_SOFTWARE' => 'PHP 7.2.19-0ubuntu0.18.04.1 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => '127.0.0.1'
+    'SERVER_PORT' => '8080'
+    'REQUEST_URI' => '/index.php?r=country%2Findex'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/farid/NetBeansProjects/admin/web/index.php'
+    'PHP_SELF' => '/index.php'
+    'QUERY_STRING' => 'r=country%2Findex'
+    'HTTP_HOST' => 'localhost:8080'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64; rv:67.0) Gecko/20100101 Firefox/67.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_DNT' => '1'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'REQUEST_TIME_FLOAT' => 1560077821.0776
+    'REQUEST_TIME' => 1560077821
+]
+2019-06-09 10:57:48 [127.0.0.1][-][-][error][yii\base\ViewNotFoundException] yii\base\ViewNotFoundException: The view file does not exist: /home/farid/NetBeansProjects/admin/views/layouts/main.php in /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/base/View.php:233
+Stack trace:
+#0 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/base/Controller.php(399): yii\base\View->renderFile('/home/farid/Net...', Array, Object(micro\controllers\CountryController))
+#1 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/base/Controller.php(385): yii\base\Controller->renderContent('<h1>Countries</...')
+#2 /home/farid/NetBeansProjects/admin/controllers/CountryController.php(30): yii\base\Controller->render('index', Array)
+#3 [internal function]: micro\controllers\CountryController->actionIndex()
+#4 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/base/InlineAction.php(57): call_user_func_array(Array, Array)
+#5 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/base/Controller.php(157): yii\base\InlineAction->runWithParams(Array)
+#6 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/base/Module.php(528): yii\base\Controller->runAction('index', Array)
+#7 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/web/Application.php(103): yii\base\Module->runAction('country/index', Array)
+#8 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/base/Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#9 /home/farid/NetBeansProjects/admin/web/index.php(11): yii\base\Application->run()
+#10 {main}
+2019-06-09 10:57:48 [127.0.0.1][-][-][info][application] $_GET = [
+    'r' => 'country/index'
+]
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = []
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/home/farid/NetBeansProjects/admin/web'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '49240'
+    'SERVER_SOFTWARE' => 'PHP 7.2.19-0ubuntu0.18.04.1 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => '127.0.0.1'
+    'SERVER_PORT' => '8080'
+    'REQUEST_URI' => '/index.php?r=country%2Findex'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/farid/NetBeansProjects/admin/web/index.php'
+    'PHP_SELF' => '/index.php'
+    'QUERY_STRING' => 'r=country%2Findex'
+    'HTTP_HOST' => 'localhost:8080'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64; rv:67.0) Gecko/20100101 Firefox/67.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_DNT' => '1'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'REQUEST_TIME_FLOAT' => 1560077868.5125
+    'REQUEST_TIME' => 1560077868
+]
+2019-06-09 10:58:33 [127.0.0.1][-][-][error][Error] Error: Class 'micro\assets\AppAsset' not found in /home/farid/NetBeansProjects/admin/views/layouts/main.php:13
+Stack trace:
+#0 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/base/View.php(348): require()
+#1 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/base/View.php(257): yii\base\View->renderPhpFile('/home/farid/Net...', Array)
+#2 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/base/Controller.php(399): yii\base\View->renderFile('/home/farid/Net...', Array, Object(micro\controllers\CountryController))
+#3 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/base/Controller.php(385): yii\base\Controller->renderContent('<h1>Countries</...')
+#4 /home/farid/NetBeansProjects/admin/controllers/CountryController.php(30): yii\base\Controller->render('index', Array)
+#5 [internal function]: micro\controllers\CountryController->actionIndex()
+#6 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/base/InlineAction.php(57): call_user_func_array(Array, Array)
+#7 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/base/Controller.php(157): yii\base\InlineAction->runWithParams(Array)
+#8 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/base/Module.php(528): yii\base\Controller->runAction('index', Array)
+#9 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/web/Application.php(103): yii\base\Module->runAction('country/index', Array)
+#10 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/base/Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#11 /home/farid/NetBeansProjects/admin/web/index.php(11): yii\base\Application->run()
+#12 {main}
+2019-06-09 10:58:33 [127.0.0.1][-][-][info][application] $_GET = [
+    'r' => 'country/index'
+]
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = []
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/home/farid/NetBeansProjects/admin/web'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '49242'
+    'SERVER_SOFTWARE' => 'PHP 7.2.19-0ubuntu0.18.04.1 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => '127.0.0.1'
+    'SERVER_PORT' => '8080'
+    'REQUEST_URI' => '/index.php?r=country%2Findex'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/farid/NetBeansProjects/admin/web/index.php'
+    'PHP_SELF' => '/index.php'
+    'QUERY_STRING' => 'r=country%2Findex'
+    'HTTP_HOST' => 'localhost:8080'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64; rv:67.0) Gecko/20100101 Firefox/67.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_DNT' => '1'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'REQUEST_TIME_FLOAT' => 1560077913.1963
+    'REQUEST_TIME' => 1560077913
+]
+2019-06-09 10:58:33 [127.0.0.1][-][-][error][Error] Error: Class 'micro\assets\AppAsset' not found in /home/farid/NetBeansProjects/admin/views/layouts/main.php:13
+Stack trace:
+#0 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/base/View.php(348): require()
+#1 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/base/View.php(257): yii\base\View->renderPhpFile('/home/farid/Net...', Array)
+#2 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/base/Controller.php(399): yii\base\View->renderFile('/home/farid/Net...', Array, Object(micro\controllers\CountryController))
+#3 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/base/Controller.php(385): yii\base\Controller->renderContent('<h1>Countries</...')
+#4 /home/farid/NetBeansProjects/admin/controllers/CountryController.php(30): yii\base\Controller->render('index', Array)
+#5 [internal function]: micro\controllers\CountryController->actionIndex()
+#6 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/base/InlineAction.php(57): call_user_func_array(Array, Array)
+#7 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/base/Controller.php(157): yii\base\InlineAction->runWithParams(Array)
+#8 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/base/Module.php(528): yii\base\Controller->runAction('index', Array)
+#9 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/web/Application.php(103): yii\base\Module->runAction('country/index', Array)
+#10 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/base/Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#11 /home/farid/NetBeansProjects/admin/web/index.php(11): yii\base\Application->run()
+#12 {main}
+2019-06-09 10:58:33 [127.0.0.1][-][-][info][application] $_GET = [
+    'r' => 'country/index'
+]
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = []
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/home/farid/NetBeansProjects/admin/web'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '49244'
+    'SERVER_SOFTWARE' => 'PHP 7.2.19-0ubuntu0.18.04.1 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => '127.0.0.1'
+    'SERVER_PORT' => '8080'
+    'REQUEST_URI' => '/index.php?r=country%2Findex'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/farid/NetBeansProjects/admin/web/index.php'
+    'PHP_SELF' => '/index.php'
+    'QUERY_STRING' => 'r=country%2Findex'
+    'HTTP_HOST' => 'localhost:8080'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64; rv:67.0) Gecko/20100101 Firefox/67.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_DNT' => '1'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'REQUEST_TIME_FLOAT' => 1560077913.9945
+    'REQUEST_TIME' => 1560077913
+]
+2019-06-09 10:59:41 [127.0.0.1][-][-][error][yii\web\HttpException:404] yii\base\InvalidRouteException: Unable to resolve the request "". in /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/base/Module.php:537
+Stack trace:
+#0 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/web/Application.php(103): yii\base\Module->runAction('', Array)
+#1 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/base/Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 /home/farid/NetBeansProjects/admin/web/index.php(11): yii\base\Application->run()
+#3 {main}
+
+Next yii\web\NotFoundHttpException: Page not found. in /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/web/Application.php:115
+Stack trace:
+#0 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/base/Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#1 /home/farid/NetBeansProjects/admin/web/index.php(11): yii\base\Application->run()
+#2 {main}
+2019-06-09 10:59:41 [127.0.0.1][-][-][info][application] $_GET = [
+    'r' => 'country/index'
+    'page' => '2'
+]
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = []
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/home/farid/NetBeansProjects/admin/web'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '49262'
+    'SERVER_SOFTWARE' => 'PHP 7.2.19-0ubuntu0.18.04.1 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => '127.0.0.1'
+    'SERVER_PORT' => '8080'
+    'REQUEST_URI' => '/index.php?r=country%2Findex&page=2'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/farid/NetBeansProjects/admin/web/index.php'
+    'PHP_SELF' => '/index.php'
+    'QUERY_STRING' => 'r=country%2Findex&page=2'
+    'HTTP_HOST' => 'localhost:8080'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64; rv:67.0) Gecko/20100101 Firefox/67.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_REFERER' => 'http://localhost:8080/index.php?r=country%2Findex&page=1'
+    'HTTP_DNT' => '1'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'REQUEST_TIME_FLOAT' => 1560077981.618
+    'REQUEST_TIME' => 1560077981
+]
+2019-06-09 11:00:38 [127.0.0.1][-][-][error][Error] Error: Class 'app\assets\AppAsset' not found in /home/farid/NetBeansProjects/admin/views/layouts/main.php:13
+Stack trace:
+#0 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/base/View.php(348): require()
+#1 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/base/View.php(257): yii\base\View->renderPhpFile('/home/farid/Net...', Array)
+#2 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/base/Controller.php(399): yii\base\View->renderFile('/home/farid/Net...', Array, Object(micro\controllers\CountryController))
+#3 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/base/Controller.php(385): yii\base\Controller->renderContent('<h1>Countries</...')
+#4 /home/farid/NetBeansProjects/admin/controllers/CountryController.php(30): yii\base\Controller->render('index', Array)
+#5 [internal function]: micro\controllers\CountryController->actionIndex()
+#6 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/base/InlineAction.php(57): call_user_func_array(Array, Array)
+#7 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/base/Controller.php(157): yii\base\InlineAction->runWithParams(Array)
+#8 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/base/Module.php(528): yii\base\Controller->runAction('index', Array)
+#9 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/web/Application.php(103): yii\base\Module->runAction('country/index', Array)
+#10 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/base/Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#11 /home/farid/NetBeansProjects/admin/web/index.php(11): yii\base\Application->run()
+#12 {main}
+2019-06-09 11:00:38 [127.0.0.1][-][-][info][application] $_GET = [
+    'r' => 'country/index'
+    'page' => '2'
+]
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = []
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/home/farid/NetBeansProjects/admin/web'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '49268'
+    'SERVER_SOFTWARE' => 'PHP 7.2.19-0ubuntu0.18.04.1 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => '127.0.0.1'
+    'SERVER_PORT' => '8080'
+    'REQUEST_URI' => '/index.php?r=country%2Findex&page=2'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/farid/NetBeansProjects/admin/web/index.php'
+    'PHP_SELF' => '/index.php'
+    'QUERY_STRING' => 'r=country%2Findex&page=2'
+    'HTTP_HOST' => 'localhost:8080'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64; rv:67.0) Gecko/20100101 Firefox/67.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_REFERER' => 'http://localhost:8080/index.php?r=country%2Findex&page=1'
+    'HTTP_DNT' => '1'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'REQUEST_TIME_FLOAT' => 1560078038.3789
+    'REQUEST_TIME' => 1560078038
+]
+2019-06-09 11:01:00 [127.0.0.1][-][-][error][Error] Error: Class 'micro\assets\AppAsset' not found in /home/farid/NetBeansProjects/admin/views/layouts/main.php:13
+Stack trace:
+#0 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/base/View.php(348): require()
+#1 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/base/View.php(257): yii\base\View->renderPhpFile('/home/farid/Net...', Array)
+#2 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/base/Controller.php(399): yii\base\View->renderFile('/home/farid/Net...', Array, Object(micro\controllers\CountryController))
+#3 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/base/Controller.php(385): yii\base\Controller->renderContent('<h1>Countries</...')
+#4 /home/farid/NetBeansProjects/admin/controllers/CountryController.php(30): yii\base\Controller->render('index', Array)
+#5 [internal function]: micro\controllers\CountryController->actionIndex()
+#6 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/base/InlineAction.php(57): call_user_func_array(Array, Array)
+#7 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/base/Controller.php(157): yii\base\InlineAction->runWithParams(Array)
+#8 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/base/Module.php(528): yii\base\Controller->runAction('index', Array)
+#9 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/web/Application.php(103): yii\base\Module->runAction('country/index', Array)
+#10 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/base/Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#11 /home/farid/NetBeansProjects/admin/web/index.php(11): yii\base\Application->run()
+#12 {main}
+2019-06-09 11:01:00 [127.0.0.1][-][-][info][application] $_GET = [
+    'r' => 'country/index'
+    'page' => '2'
+]
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = []
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/home/farid/NetBeansProjects/admin/web'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '49270'
+    'SERVER_SOFTWARE' => 'PHP 7.2.19-0ubuntu0.18.04.1 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => '127.0.0.1'
+    'SERVER_PORT' => '8080'
+    'REQUEST_URI' => '/index.php?r=country%2Findex&page=2'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/farid/NetBeansProjects/admin/web/index.php'
+    'PHP_SELF' => '/index.php'
+    'QUERY_STRING' => 'r=country%2Findex&page=2'
+    'HTTP_HOST' => 'localhost:8080'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64; rv:67.0) Gecko/20100101 Firefox/67.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_REFERER' => 'http://localhost:8080/index.php?r=country%2Findex&page=1'
+    'HTTP_DNT' => '1'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'REQUEST_TIME_FLOAT' => 1560078060.4076
+    'REQUEST_TIME' => 1560078060
+]
+2019-06-09 11:02:31 [127.0.0.1][-][-][error][yii\base\InvalidConfigException] yii\base\InvalidConfigException: yii\web\Request::cookieValidationKey must be configured with a secret key. in /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/web/Request.php:1579
+Stack trace:
+#0 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/web/Request.php(1561): yii\web\Request->loadCookies()
+#1 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/web/Request.php(1649): yii\web\Request->getCookies()
+#2 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/web/Request.php(1631): yii\web\Request->loadCsrfToken()
+#3 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/helpers/BaseHtml.php(305): yii\web\Request->getCsrfToken()
+#4 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/base/View.php(429) : eval()'d code(1): yii\helpers\BaseHtml::csrfMetaTags()
+#5 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/base/View.php(429): eval()
+#6 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/base/View.php(386): yii\base\View->evaluateDynamicContent('return yii\\help...')
+#7 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/web/View.php(362): yii\base\View->renderDynamic('return yii\\help...')
+#8 /home/farid/NetBeansProjects/admin/views/layouts/main.php(22): yii\web\View->registerCsrfMetaTags()
+#9 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/base/View.php(348): require('/home/farid/Net...')
+#10 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/base/View.php(257): yii\base\View->renderPhpFile('/home/farid/Net...', Array)
+#11 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/base/Controller.php(399): yii\base\View->renderFile('/home/farid/Net...', Array, Object(micro\controllers\CountryController))
+#12 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/base/Controller.php(385): yii\base\Controller->renderContent('<h1>Countries</...')
+#13 /home/farid/NetBeansProjects/admin/controllers/CountryController.php(30): yii\base\Controller->render('index', Array)
+#14 [internal function]: micro\controllers\CountryController->actionIndex()
+#15 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/base/InlineAction.php(57): call_user_func_array(Array, Array)
+#16 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/base/Controller.php(157): yii\base\InlineAction->runWithParams(Array)
+#17 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/base/Module.php(528): yii\base\Controller->runAction('index', Array)
+#18 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/web/Application.php(103): yii\base\Module->runAction('country/index', Array)
+#19 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/base/Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#20 /home/farid/NetBeansProjects/admin/web/index.php(11): yii\base\Application->run()
+#21 {main}
+2019-06-09 11:02:31 [127.0.0.1][-][-][info][application] $_GET = [
+    'r' => 'country/index'
+    'page' => '2'
+]
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = []
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/home/farid/NetBeansProjects/admin/web'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '49272'
+    'SERVER_SOFTWARE' => 'PHP 7.2.19-0ubuntu0.18.04.1 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => '127.0.0.1'
+    'SERVER_PORT' => '8080'
+    'REQUEST_URI' => '/index.php?r=country%2Findex&page=2'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/farid/NetBeansProjects/admin/web/index.php'
+    'PHP_SELF' => '/index.php'
+    'QUERY_STRING' => 'r=country%2Findex&page=2'
+    'HTTP_HOST' => 'localhost:8080'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64; rv:67.0) Gecko/20100101 Firefox/67.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_REFERER' => 'http://localhost:8080/index.php?r=country%2Findex&page=1'
+    'HTTP_DNT' => '1'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'REQUEST_TIME_FLOAT' => 1560078151.3945
+    'REQUEST_TIME' => 1560078151
+]
+2019-06-09 11:02:53 [127.0.0.1][-][-][error][yii\base\InvalidConfigException] yii\base\InvalidConfigException: yii\web\Request::cookieValidationKey must be configured with a secret key. in /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/web/Request.php:1579
+Stack trace:
+#0 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/web/Request.php(1561): yii\web\Request->loadCookies()
+#1 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/web/Request.php(1649): yii\web\Request->getCookies()
+#2 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/web/Request.php(1631): yii\web\Request->loadCsrfToken()
+#3 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/helpers/BaseHtml.php(305): yii\web\Request->getCsrfToken()
+#4 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/base/View.php(429) : eval()'d code(1): yii\helpers\BaseHtml::csrfMetaTags()
+#5 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/base/View.php(429): eval()
+#6 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/base/View.php(386): yii\base\View->evaluateDynamicContent('return yii\\help...')
+#7 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/web/View.php(362): yii\base\View->renderDynamic('return yii\\help...')
+#8 /home/farid/NetBeansProjects/admin/views/layouts/main.php(22): yii\web\View->registerCsrfMetaTags()
+#9 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/base/View.php(348): require('/home/farid/Net...')
+#10 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/base/View.php(257): yii\base\View->renderPhpFile('/home/farid/Net...', Array)
+#11 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/base/Controller.php(399): yii\base\View->renderFile('/home/farid/Net...', Array, Object(micro\controllers\CountryController))
+#12 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/base/Controller.php(385): yii\base\Controller->renderContent('<h1>Countries</...')
+#13 /home/farid/NetBeansProjects/admin/controllers/CountryController.php(30): yii\base\Controller->render('index', Array)
+#14 [internal function]: micro\controllers\CountryController->actionIndex()
+#15 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/base/InlineAction.php(57): call_user_func_array(Array, Array)
+#16 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/base/Controller.php(157): yii\base\InlineAction->runWithParams(Array)
+#17 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/base/Module.php(528): yii\base\Controller->runAction('index', Array)
+#18 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/web/Application.php(103): yii\base\Module->runAction('country/index', Array)
+#19 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/base/Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#20 /home/farid/NetBeansProjects/admin/web/index.php(11): yii\base\Application->run()
+#21 {main}
+2019-06-09 11:02:53 [127.0.0.1][-][-][info][application] $_GET = [
+    'r' => 'country/index'
+    'page' => '2'
+]
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = []
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/home/farid/NetBeansProjects/admin/web'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '49274'
+    'SERVER_SOFTWARE' => 'PHP 7.2.19-0ubuntu0.18.04.1 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => '127.0.0.1'
+    'SERVER_PORT' => '8080'
+    'REQUEST_URI' => '/index.php?r=country%2Findex&page=2'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/farid/NetBeansProjects/admin/web/index.php'
+    'PHP_SELF' => '/index.php'
+    'QUERY_STRING' => 'r=country%2Findex&page=2'
+    'HTTP_HOST' => 'localhost:8080'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64; rv:67.0) Gecko/20100101 Firefox/67.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_REFERER' => 'http://localhost:8080/index.php?r=country%2Findex&page=1'
+    'HTTP_DNT' => '1'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'REQUEST_TIME_FLOAT' => 1560078173.9125
+    'REQUEST_TIME' => 1560078173
+]
+2019-06-09 11:04:53 [127.0.0.1][-][-][error][yii\base\InvalidConfigException] yii\base\InvalidConfigException: The directory does not exist: /home/farid/NetBeansProjects/admin/web/assets in /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/web/AssetManager.php:213
+Stack trace:
+#0 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/base/BaseObject.php(109): yii\web\AssetManager->init()
+#1 [internal function]: yii\base\BaseObject->__construct(Array)
+#2 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/di/Container.php(376): ReflectionClass->newInstanceArgs(Array)
+#3 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/di/Container.php(156): yii\di\Container->build('yii\\web\\AssetMa...', Array, Array)
+#4 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/BaseYii.php(349): yii\di\Container->get('yii\\web\\AssetMa...', Array, Array)
+#5 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/di/ServiceLocator.php(137): yii\BaseYii::createObject(Array)
+#6 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/base/Module.php(742): yii\di\ServiceLocator->get('assetManager', true)
+#7 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/base/Application.php(608): yii\base\Module->get('assetManager')
+#8 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/web/View.php(225): yii\base\Application->getAssetManager()
+#9 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/web/View.php(285): yii\web\View->getAssetManager()
+#10 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/web/AssetBundle.php(125): yii\web\View->registerAssetBundle('yii\\bootstrap\\B...')
+#11 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2-bootstrap/src/Nav.php(138): yii\web\AssetBundle::register(Object(yii\web\View))
+#12 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/base/Widget.php(140): yii\bootstrap\Nav->run()
+#13 /home/farid/NetBeansProjects/admin/views/layouts/main.php(54): yii\base\Widget::widget(Array)
+#14 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/base/View.php(348): require('/home/farid/Net...')
+#15 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/base/View.php(257): yii\base\View->renderPhpFile('/home/farid/Net...', Array)
+#16 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/base/Controller.php(399): yii\base\View->renderFile('/home/farid/Net...', Array, Object(micro\controllers\CountryController))
+#17 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/base/Controller.php(385): yii\base\Controller->renderContent('<h1>Countries</...')
+#18 /home/farid/NetBeansProjects/admin/controllers/CountryController.php(30): yii\base\Controller->render('index', Array)
+#19 [internal function]: micro\controllers\CountryController->actionIndex()
+#20 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/base/InlineAction.php(57): call_user_func_array(Array, Array)
+#21 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/base/Controller.php(157): yii\base\InlineAction->runWithParams(Array)
+#22 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/base/Module.php(528): yii\base\Controller->runAction('index', Array)
+#23 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/web/Application.php(103): yii\base\Module->runAction('country/index', Array)
+#24 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/base/Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#25 /home/farid/NetBeansProjects/admin/web/index.php(11): yii\base\Application->run()
+#26 {main}
+2019-06-09 11:04:53 [127.0.0.1][-][-][info][application] $_GET = [
+    'r' => 'country/index'
+    'page' => '2'
+]
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = []
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/home/farid/NetBeansProjects/admin/web'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '49334'
+    'SERVER_SOFTWARE' => 'PHP 7.2.19-0ubuntu0.18.04.1 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => '127.0.0.1'
+    'SERVER_PORT' => '8080'
+    'REQUEST_URI' => '/index.php?r=country%2Findex&page=2'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/farid/NetBeansProjects/admin/web/index.php'
+    'PHP_SELF' => '/index.php'
+    'QUERY_STRING' => 'r=country%2Findex&page=2'
+    'HTTP_HOST' => 'localhost:8080'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64; rv:67.0) Gecko/20100101 Firefox/67.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_REFERER' => 'http://localhost:8080/index.php?r=country%2Findex&page=1'
+    'HTTP_DNT' => '1'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'REQUEST_TIME_FLOAT' => 1560078293.5311
+    'REQUEST_TIME' => 1560078293
+]
+2019-06-09 11:06:12 [127.0.0.1][-][-][error][Error] Error: Class 'app\widgets\Alert' not found in /home/farid/NetBeansProjects/admin/views/layouts/main.php:65
+Stack trace:
+#0 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/base/View.php(348): require()
+#1 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/base/View.php(257): yii\base\View->renderPhpFile('/home/farid/Net...', Array)
+#2 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/base/Controller.php(399): yii\base\View->renderFile('/home/farid/Net...', Array, Object(micro\controllers\CountryController))
+#3 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/base/Controller.php(385): yii\base\Controller->renderContent('<h1>Countries</...')
+#4 /home/farid/NetBeansProjects/admin/controllers/CountryController.php(30): yii\base\Controller->render('index', Array)
+#5 [internal function]: micro\controllers\CountryController->actionIndex()
+#6 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/base/InlineAction.php(57): call_user_func_array(Array, Array)
+#7 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/base/Controller.php(157): yii\base\InlineAction->runWithParams(Array)
+#8 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/base/Module.php(528): yii\base\Controller->runAction('index', Array)
+#9 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/web/Application.php(103): yii\base\Module->runAction('country/index', Array)
+#10 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/base/Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#11 /home/farid/NetBeansProjects/admin/web/index.php(11): yii\base\Application->run()
+#12 {main}
+2019-06-09 11:06:12 [127.0.0.1][-][-][info][application] $_GET = [
+    'r' => 'country/index'
+    'page' => '2'
+]
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = []
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/home/farid/NetBeansProjects/admin/web'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '49336'
+    'SERVER_SOFTWARE' => 'PHP 7.2.19-0ubuntu0.18.04.1 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => '127.0.0.1'
+    'SERVER_PORT' => '8080'
+    'REQUEST_URI' => '/index.php?r=country%2Findex&page=2'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/farid/NetBeansProjects/admin/web/index.php'
+    'PHP_SELF' => '/index.php'
+    'QUERY_STRING' => 'r=country%2Findex&page=2'
+    'HTTP_HOST' => 'localhost:8080'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64; rv:67.0) Gecko/20100101 Firefox/67.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_REFERER' => 'http://localhost:8080/index.php?r=country%2Findex&page=1'
+    'HTTP_DNT' => '1'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'REQUEST_TIME_FLOAT' => 1560078372.0874
+    'REQUEST_TIME' => 1560078372
+]
+2019-06-09 11:06:32 [127.0.0.1][-][-][error][Error] Error: Class 'micro\assets\AppAsset' not found in /home/farid/NetBeansProjects/admin/views/layouts/main.php:13
+Stack trace:
+#0 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/base/View.php(348): require()
+#1 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/base/View.php(257): yii\base\View->renderPhpFile('/home/farid/Net...', Array)
+#2 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/base/Controller.php(399): yii\base\View->renderFile('/home/farid/Net...', Array, Object(micro\controllers\CountryController))
+#3 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/base/Controller.php(385): yii\base\Controller->renderContent('<h1>Countries</...')
+#4 /home/farid/NetBeansProjects/admin/controllers/CountryController.php(30): yii\base\Controller->render('index', Array)
+#5 [internal function]: micro\controllers\CountryController->actionIndex()
+#6 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/base/InlineAction.php(57): call_user_func_array(Array, Array)
+#7 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/base/Controller.php(157): yii\base\InlineAction->runWithParams(Array)
+#8 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/base/Module.php(528): yii\base\Controller->runAction('index', Array)
+#9 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/web/Application.php(103): yii\base\Module->runAction('country/index', Array)
+#10 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/base/Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#11 /home/farid/NetBeansProjects/admin/web/index.php(11): yii\base\Application->run()
+#12 {main}
+2019-06-09 11:06:32 [127.0.0.1][-][-][info][application] $_GET = [
+    'r' => 'country/index'
+    'page' => '2'
+]
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = []
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/home/farid/NetBeansProjects/admin/web'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '49338'
+    'SERVER_SOFTWARE' => 'PHP 7.2.19-0ubuntu0.18.04.1 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => '127.0.0.1'
+    'SERVER_PORT' => '8080'
+    'REQUEST_URI' => '/index.php?r=country%2Findex&page=2'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/farid/NetBeansProjects/admin/web/index.php'
+    'PHP_SELF' => '/index.php'
+    'QUERY_STRING' => 'r=country%2Findex&page=2'
+    'HTTP_HOST' => 'localhost:8080'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64; rv:67.0) Gecko/20100101 Firefox/67.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_REFERER' => 'http://localhost:8080/index.php?r=country%2Findex&page=1'
+    'HTTP_DNT' => '1'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'REQUEST_TIME_FLOAT' => 1560078392.7119
+    'REQUEST_TIME' => 1560078392
+]
+2019-06-09 11:07:56 [127.0.0.1][-][-][error][Error] Error: Class 'micro\assets\AppAsset' not found in /home/farid/NetBeansProjects/admin/views/layouts/main.php:13
+Stack trace:
+#0 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/base/View.php(348): require()
+#1 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/base/View.php(257): yii\base\View->renderPhpFile('/home/farid/Net...', Array)
+#2 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/base/Controller.php(399): yii\base\View->renderFile('/home/farid/Net...', Array, Object(micro\controllers\CountryController))
+#3 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/base/Controller.php(385): yii\base\Controller->renderContent('<h1>Countries</...')
+#4 /home/farid/NetBeansProjects/admin/controllers/CountryController.php(30): yii\base\Controller->render('index', Array)
+#5 [internal function]: micro\controllers\CountryController->actionIndex()
+#6 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/base/InlineAction.php(57): call_user_func_array(Array, Array)
+#7 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/base/Controller.php(157): yii\base\InlineAction->runWithParams(Array)
+#8 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/base/Module.php(528): yii\base\Controller->runAction('index', Array)
+#9 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/web/Application.php(103): yii\base\Module->runAction('country/index', Array)
+#10 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/base/Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#11 /home/farid/NetBeansProjects/admin/web/index.php(11): yii\base\Application->run()
+#12 {main}
+2019-06-09 11:07:56 [127.0.0.1][-][-][info][application] $_GET = [
+    'r' => 'country/index'
+    'page' => '2'
+]
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = []
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/home/farid/NetBeansProjects/admin/web'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '49340'
+    'SERVER_SOFTWARE' => 'PHP 7.2.19-0ubuntu0.18.04.1 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => '127.0.0.1'
+    'SERVER_PORT' => '8080'
+    'REQUEST_URI' => '/index.php?r=country%2Findex&page=2'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/farid/NetBeansProjects/admin/web/index.php'
+    'PHP_SELF' => '/index.php'
+    'QUERY_STRING' => 'r=country%2Findex&page=2'
+    'HTTP_HOST' => 'localhost:8080'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64; rv:67.0) Gecko/20100101 Firefox/67.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_REFERER' => 'http://localhost:8080/index.php?r=country%2Findex&page=1'
+    'HTTP_DNT' => '1'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'REQUEST_TIME_FLOAT' => 1560078476.1389
+    'REQUEST_TIME' => 1560078476
+]
+2019-06-09 11:08:29 [127.0.0.1][-][-][error][Error] Error: Class 'micro\assets\AppAsset' not found in /home/farid/NetBeansProjects/admin/views/layouts/main.php:13
+Stack trace:
+#0 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/base/View.php(348): require()
+#1 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/base/View.php(257): yii\base\View->renderPhpFile('/home/farid/Net...', Array)
+#2 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/base/Controller.php(399): yii\base\View->renderFile('/home/farid/Net...', Array, Object(micro\controllers\CountryController))
+#3 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/base/Controller.php(385): yii\base\Controller->renderContent('<h1>Countries</...')
+#4 /home/farid/NetBeansProjects/admin/controllers/CountryController.php(30): yii\base\Controller->render('index', Array)
+#5 [internal function]: micro\controllers\CountryController->actionIndex()
+#6 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/base/InlineAction.php(57): call_user_func_array(Array, Array)
+#7 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/base/Controller.php(157): yii\base\InlineAction->runWithParams(Array)
+#8 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/base/Module.php(528): yii\base\Controller->runAction('index', Array)
+#9 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/web/Application.php(103): yii\base\Module->runAction('country/index', Array)
+#10 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/base/Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#11 /home/farid/NetBeansProjects/admin/web/index.php(11): yii\base\Application->run()
+#12 {main}
+2019-06-09 11:08:29 [127.0.0.1][-][-][info][application] $_GET = [
+    'r' => 'country/index'
+    'page' => '2'
+]
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = []
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/home/farid/NetBeansProjects/admin/web'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '49342'
+    'SERVER_SOFTWARE' => 'PHP 7.2.19-0ubuntu0.18.04.1 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => '127.0.0.1'
+    'SERVER_PORT' => '8080'
+    'REQUEST_URI' => '/index.php?r=country%2Findex&page=2'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/farid/NetBeansProjects/admin/web/index.php'
+    'PHP_SELF' => '/index.php'
+    'QUERY_STRING' => 'r=country%2Findex&page=2'
+    'HTTP_HOST' => 'localhost:8080'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64; rv:67.0) Gecko/20100101 Firefox/67.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_REFERER' => 'http://localhost:8080/index.php?r=country%2Findex&page=1'
+    'HTTP_DNT' => '1'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'REQUEST_TIME_FLOAT' => 1560078509.7515
+    'REQUEST_TIME' => 1560078509
+]
+2019-06-09 11:08:45 [127.0.0.1][-][-][error][Error] Error: Class 'micro\widgets\Alert' not found in /home/farid/NetBeansProjects/admin/views/layouts/main.php:65
+Stack trace:
+#0 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/base/View.php(348): require()
+#1 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/base/View.php(257): yii\base\View->renderPhpFile('/home/farid/Net...', Array)
+#2 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/base/Controller.php(399): yii\base\View->renderFile('/home/farid/Net...', Array, Object(micro\controllers\CountryController))
+#3 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/base/Controller.php(385): yii\base\Controller->renderContent('<h1>Countries</...')
+#4 /home/farid/NetBeansProjects/admin/controllers/CountryController.php(30): yii\base\Controller->render('index', Array)
+#5 [internal function]: micro\controllers\CountryController->actionIndex()
+#6 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/base/InlineAction.php(57): call_user_func_array(Array, Array)
+#7 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/base/Controller.php(157): yii\base\InlineAction->runWithParams(Array)
+#8 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/base/Module.php(528): yii\base\Controller->runAction('index', Array)
+#9 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/web/Application.php(103): yii\base\Module->runAction('country/index', Array)
+#10 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/base/Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#11 /home/farid/NetBeansProjects/admin/web/index.php(11): yii\base\Application->run()
+#12 {main}
+2019-06-09 11:08:45 [127.0.0.1][-][-][info][application] $_GET = [
+    'r' => 'country/index'
+    'page' => '2'
+]
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = []
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/home/farid/NetBeansProjects/admin/web'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '49344'
+    'SERVER_SOFTWARE' => 'PHP 7.2.19-0ubuntu0.18.04.1 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => '127.0.0.1'
+    'SERVER_PORT' => '8080'
+    'REQUEST_URI' => '/index.php?r=country%2Findex&page=2'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/farid/NetBeansProjects/admin/web/index.php'
+    'PHP_SELF' => '/index.php'
+    'QUERY_STRING' => 'r=country%2Findex&page=2'
+    'HTTP_HOST' => 'localhost:8080'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64; rv:67.0) Gecko/20100101 Firefox/67.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_REFERER' => 'http://localhost:8080/index.php?r=country%2Findex&page=1'
+    'HTTP_DNT' => '1'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'REQUEST_TIME_FLOAT' => 1560078525.1666
+    'REQUEST_TIME' => 1560078525
+]
+2019-06-09 11:35:26 [127.0.0.1][-][-][error][yii\base\InvalidArgumentException] yii\base\InvalidArgumentException: The file or directory to be published does not exist: /home/farid/NetBeansProjects/admin/vendor/bower/bootstrap/dist in /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/web/AssetManager.php:455
+Stack trace:
+#0 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/web/AssetBundle.php(185): yii\web\AssetManager->publish('/home/farid/Net...', Array)
+#1 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/web/AssetManager.php(266): yii\web\AssetBundle->publish(Object(yii\web\AssetManager))
+#2 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/web/AssetManager.php(237): yii\web\AssetManager->loadBundle('yii\\bootstrap\\B...', Array, true)
+#3 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/web/View.php(286): yii\web\AssetManager->getBundle('yii\\bootstrap\\B...')
+#4 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/web/AssetBundle.php(125): yii\web\View->registerAssetBundle('yii\\bootstrap\\B...')
+#5 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2-bootstrap/src/Nav.php(138): yii\web\AssetBundle::register(Object(yii\web\View))
+#6 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/base/Widget.php(140): yii\bootstrap\Nav->run()
+#7 /home/farid/NetBeansProjects/admin/views/layouts/main.php(54): yii\base\Widget::widget(Array)
+#8 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/base/View.php(348): require('/home/farid/Net...')
+#9 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/base/View.php(257): yii\base\View->renderPhpFile('/home/farid/Net...', Array)
+#10 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/base/Controller.php(399): yii\base\View->renderFile('/home/farid/Net...', Array, Object(micro\controllers\CountryController))
+#11 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/base/Controller.php(385): yii\base\Controller->renderContent('<h1>Countries</...')
+#12 /home/farid/NetBeansProjects/admin/controllers/CountryController.php(30): yii\base\Controller->render('index', Array)
+#13 [internal function]: micro\controllers\CountryController->actionIndex()
+#14 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/base/InlineAction.php(57): call_user_func_array(Array, Array)
+#15 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/base/Controller.php(157): yii\base\InlineAction->runWithParams(Array)
+#16 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/base/Module.php(528): yii\base\Controller->runAction('index', Array)
+#17 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/web/Application.php(103): yii\base\Module->runAction('country/index', Array)
+#18 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/base/Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#19 /home/farid/NetBeansProjects/admin/web/index.php(11): yii\base\Application->run()
+#20 {main}
+2019-06-09 11:35:26 [127.0.0.1][-][-][info][application] $_GET = [
+    'r' => 'country/index'
+    'page' => '1'
+]
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    'PHPSESSID' => '91qf0pmmrab3m450h0foram0je'
+    '_csrf' => 'd7c8ca248bcb32573bd5ab824671c75d922ae70b022f0f89b2b4bb702bc030c3a:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"SUGJB9Q073HwxWUeV81CwH_pvJTmirae\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/home/farid/NetBeansProjects/admin/web'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '49662'
+    'SERVER_SOFTWARE' => 'PHP 7.2.19-0ubuntu0.18.04.1 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => '127.0.0.1'
+    'SERVER_PORT' => '8080'
+    'REQUEST_URI' => '/index.php?r=country%2Findex&page=1'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/farid/NetBeansProjects/admin/web/index.php'
+    'PHP_SELF' => '/index.php'
+    'QUERY_STRING' => 'r=country%2Findex&page=1'
+    'HTTP_HOST' => 'localhost:8080'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64; rv:67.0) Gecko/20100101 Firefox/67.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_REFERER' => 'http://localhost:8080/index.php?r=country%2Findex&page=2'
+    'HTTP_DNT' => '1'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_COOKIE' => 'PHPSESSID=91qf0pmmrab3m450h0foram0je; _csrf=d7c8ca248bcb32573bd5ab824671c75d922ae70b022f0f89b2b4bb702bc030c3a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22SUGJB9Q073HwxWUeV81CwH_pvJTmirae%22%3B%7D'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'REQUEST_TIME_FLOAT' => 1560080126.4053
+    'REQUEST_TIME' => 1560080126
+]
+2019-06-09 11:37:01 [127.0.0.1][-][-][error][yii\web\HttpException:404] yii\base\InvalidRouteException: Unable to resolve the request: site/about in /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/base/Controller.php:128
+Stack trace:
+#0 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/base/Module.php(528): yii\base\Controller->runAction('about', Array)
+#1 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/web/Application.php(103): yii\base\Module->runAction('site/about', Array)
+#2 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/base/Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#3 /home/farid/NetBeansProjects/admin/web/index.php(11): yii\base\Application->run()
+#4 {main}
+
+Next yii\web\NotFoundHttpException: Page not found. in /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/web/Application.php:115
+Stack trace:
+#0 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/base/Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#1 /home/farid/NetBeansProjects/admin/web/index.php(11): yii\base\Application->run()
+#2 {main}
+2019-06-09 11:37:01 [127.0.0.1][-][-][info][application] $_GET = [
+    'r' => 'site/about'
+]
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    'PHPSESSID' => '91qf0pmmrab3m450h0foram0je'
+    '_csrf' => 'd7c8ca248bcb32573bd5ab824671c75d922ae70b022f0f89b2b4bb702bc030c3a:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"SUGJB9Q073HwxWUeV81CwH_pvJTmirae\";}'
+]
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/home/farid/NetBeansProjects/admin/web'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '49716'
+    'SERVER_SOFTWARE' => 'PHP 7.2.19-0ubuntu0.18.04.1 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => '127.0.0.1'
+    'SERVER_PORT' => '8080'
+    'REQUEST_URI' => '/index.php?r=site%2Fabout'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/farid/NetBeansProjects/admin/web/index.php'
+    'PHP_SELF' => '/index.php'
+    'QUERY_STRING' => 'r=site%2Fabout'
+    'HTTP_HOST' => 'localhost:8080'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64; rv:67.0) Gecko/20100101 Firefox/67.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_REFERER' => 'http://localhost:8080/index.php?r=country%2Findex&page=1'
+    'HTTP_DNT' => '1'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_COOKIE' => 'PHPSESSID=91qf0pmmrab3m450h0foram0je; _csrf=d7c8ca248bcb32573bd5ab824671c75d922ae70b022f0f89b2b4bb702bc030c3a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22SUGJB9Q073HwxWUeV81CwH_pvJTmirae%22%3B%7D'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'REQUEST_TIME_FLOAT' => 1560080221.5298
+    'REQUEST_TIME' => 1560080221
+]
+2019-06-09 11:37:05 [127.0.0.1][-][-][error][yii\web\HttpException:404] yii\base\InvalidRouteException: Unable to resolve the request: site/login in /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/base/Controller.php:128
+Stack trace:
+#0 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/base/Module.php(528): yii\base\Controller->runAction('login', Array)
+#1 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/web/Application.php(103): yii\base\Module->runAction('site/login', Array)
+#2 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/base/Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#3 /home/farid/NetBeansProjects/admin/web/index.php(11): yii\base\Application->run()
+#4 {main}
+
+Next yii\web\NotFoundHttpException: Page not found. in /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/web/Application.php:115
+Stack trace:
+#0 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/base/Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#1 /home/farid/NetBeansProjects/admin/web/index.php(11): yii\base\Application->run()
+#2 {main}
+2019-06-09 11:37:05 [127.0.0.1][-][-][info][application] $_GET = [
+    'r' => 'site/login'
+]
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    'PHPSESSID' => '91qf0pmmrab3m450h0foram0je'
+    '_csrf' => 'd7c8ca248bcb32573bd5ab824671c75d922ae70b022f0f89b2b4bb702bc030c3a:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"SUGJB9Q073HwxWUeV81CwH_pvJTmirae\";}'
+]
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/home/farid/NetBeansProjects/admin/web'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '49720'
+    'SERVER_SOFTWARE' => 'PHP 7.2.19-0ubuntu0.18.04.1 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => '127.0.0.1'
+    'SERVER_PORT' => '8080'
+    'REQUEST_URI' => '/index.php?r=site%2Flogin'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/farid/NetBeansProjects/admin/web/index.php'
+    'PHP_SELF' => '/index.php'
+    'QUERY_STRING' => 'r=site%2Flogin'
+    'HTTP_HOST' => 'localhost:8080'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64; rv:67.0) Gecko/20100101 Firefox/67.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_REFERER' => 'http://localhost:8080/index.php?r=country%2Findex&page=1'
+    'HTTP_DNT' => '1'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_COOKIE' => 'PHPSESSID=91qf0pmmrab3m450h0foram0je; _csrf=d7c8ca248bcb32573bd5ab824671c75d922ae70b022f0f89b2b4bb702bc030c3a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22SUGJB9Q073HwxWUeV81CwH_pvJTmirae%22%3B%7D'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'REQUEST_TIME_FLOAT' => 1560080225.8293
+    'REQUEST_TIME' => 1560080225
+]
+2019-06-09 11:37:08 [127.0.0.1][-][-][error][yii\web\HttpException:404] yii\base\InvalidRouteException: Unable to resolve the request: site/contact in /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/base/Controller.php:128
+Stack trace:
+#0 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/base/Module.php(528): yii\base\Controller->runAction('contact', Array)
+#1 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/web/Application.php(103): yii\base\Module->runAction('site/contact', Array)
+#2 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/base/Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#3 /home/farid/NetBeansProjects/admin/web/index.php(11): yii\base\Application->run()
+#4 {main}
+
+Next yii\web\NotFoundHttpException: Page not found. in /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/web/Application.php:115
+Stack trace:
+#0 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/base/Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#1 /home/farid/NetBeansProjects/admin/web/index.php(11): yii\base\Application->run()
+#2 {main}
+2019-06-09 11:37:08 [127.0.0.1][-][-][info][application] $_GET = [
+    'r' => 'site/contact'
+]
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    'PHPSESSID' => '91qf0pmmrab3m450h0foram0je'
+    '_csrf' => 'd7c8ca248bcb32573bd5ab824671c75d922ae70b022f0f89b2b4bb702bc030c3a:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"SUGJB9Q073HwxWUeV81CwH_pvJTmirae\";}'
+]
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/home/farid/NetBeansProjects/admin/web'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '49726'
+    'SERVER_SOFTWARE' => 'PHP 7.2.19-0ubuntu0.18.04.1 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => '127.0.0.1'
+    'SERVER_PORT' => '8080'
+    'REQUEST_URI' => '/index.php?r=site%2Fcontact'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/farid/NetBeansProjects/admin/web/index.php'
+    'PHP_SELF' => '/index.php'
+    'QUERY_STRING' => 'r=site%2Fcontact'
+    'HTTP_HOST' => 'localhost:8080'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64; rv:67.0) Gecko/20100101 Firefox/67.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_REFERER' => 'http://localhost:8080/index.php?r=country%2Findex&page=1'
+    'HTTP_DNT' => '1'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_COOKIE' => 'PHPSESSID=91qf0pmmrab3m450h0foram0je; _csrf=d7c8ca248bcb32573bd5ab824671c75d922ae70b022f0f89b2b4bb702bc030c3a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22SUGJB9Q073HwxWUeV81CwH_pvJTmirae%22%3B%7D'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'REQUEST_TIME_FLOAT' => 1560080228.645
+    'REQUEST_TIME' => 1560080228
+]
+2019-06-09 11:37:13 [127.0.0.1][-][-][error][yii\web\HttpException:404] yii\base\InvalidRouteException: Unable to resolve the request "". in /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/base/Module.php:537
+Stack trace:
+#0 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/web/Application.php(103): yii\base\Module->runAction('', Array)
+#1 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/base/Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 /home/farid/NetBeansProjects/admin/web/index.php(11): yii\base\Application->run()
+#3 {main}
+
+Next yii\web\NotFoundHttpException: Page not found. in /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/web/Application.php:115
+Stack trace:
+#0 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/base/Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#1 /home/farid/NetBeansProjects/admin/web/index.php(11): yii\base\Application->run()
+#2 {main}
+2019-06-09 11:37:13 [127.0.0.1][-][-][info][application] $_GET = []
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    'PHPSESSID' => '91qf0pmmrab3m450h0foram0je'
+    '_csrf' => 'd7c8ca248bcb32573bd5ab824671c75d922ae70b022f0f89b2b4bb702bc030c3a:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"SUGJB9Q073HwxWUeV81CwH_pvJTmirae\";}'
+]
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/home/farid/NetBeansProjects/admin/web'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '49730'
+    'SERVER_SOFTWARE' => 'PHP 7.2.19-0ubuntu0.18.04.1 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => '127.0.0.1'
+    'SERVER_PORT' => '8080'
+    'REQUEST_URI' => '/index.php'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/farid/NetBeansProjects/admin/web/index.php'
+    'PHP_SELF' => '/index.php'
+    'HTTP_HOST' => 'localhost:8080'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64; rv:67.0) Gecko/20100101 Firefox/67.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_REFERER' => 'http://localhost:8080/index.php?r=country%2Findex&page=1'
+    'HTTP_DNT' => '1'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_COOKIE' => 'PHPSESSID=91qf0pmmrab3m450h0foram0je; _csrf=d7c8ca248bcb32573bd5ab824671c75d922ae70b022f0f89b2b4bb702bc030c3a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22SUGJB9Q073HwxWUeV81CwH_pvJTmirae%22%3B%7D'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'REQUEST_TIME_FLOAT' => 1560080233.2681
+    'REQUEST_TIME' => 1560080233
+]
+2019-06-09 11:37:28 [127.0.0.1][-][-][error][yii\web\HttpException:404] yii\base\InvalidRouteException: Unable to resolve the request "". in /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/base/Module.php:537
+Stack trace:
+#0 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/web/Application.php(103): yii\base\Module->runAction('', Array)
+#1 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/base/Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 /home/farid/NetBeansProjects/admin/web/index.php(11): yii\base\Application->run()
+#3 {main}
+
+Next yii\web\NotFoundHttpException: Page not found. in /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/web/Application.php:115
+Stack trace:
+#0 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/base/Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#1 /home/farid/NetBeansProjects/admin/web/index.php(11): yii\base\Application->run()
+#2 {main}
+2019-06-09 11:37:28 [127.0.0.1][-][-][info][application] $_GET = []
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    'PHPSESSID' => '91qf0pmmrab3m450h0foram0je'
+    '_csrf' => 'd7c8ca248bcb32573bd5ab824671c75d922ae70b022f0f89b2b4bb702bc030c3a:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"SUGJB9Q073HwxWUeV81CwH_pvJTmirae\";}'
+]
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/home/farid/NetBeansProjects/admin/web'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '49744'
+    'SERVER_SOFTWARE' => 'PHP 7.2.19-0ubuntu0.18.04.1 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => '127.0.0.1'
+    'SERVER_PORT' => '8080'
+    'REQUEST_URI' => '/index.php'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/farid/NetBeansProjects/admin/web/index.php'
+    'PHP_SELF' => '/index.php'
+    'HTTP_HOST' => 'localhost:8080'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64; rv:67.0) Gecko/20100101 Firefox/67.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_REFERER' => 'http://localhost:8080/index.php?r=country%2Findex&page=1'
+    'HTTP_DNT' => '1'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_COOKIE' => 'PHPSESSID=91qf0pmmrab3m450h0foram0je; _csrf=d7c8ca248bcb32573bd5ab824671c75d922ae70b022f0f89b2b4bb702bc030c3a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22SUGJB9Q073HwxWUeV81CwH_pvJTmirae%22%3B%7D'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'REQUEST_TIME_FLOAT' => 1560080248.069
+    'REQUEST_TIME' => 1560080248
+]
+2019-06-09 15:31:55 [::1][-][-][error][yii\web\HttpException:404] yii\base\InvalidRouteException: Unable to resolve the request "". in /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/base/Module.php:537
+Stack trace:
+#0 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/web/Application.php(103): yii\base\Module->runAction('', Array)
+#1 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/base/Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 /home/farid/NetBeansProjects/admin/web/index.php(11): yii\base\Application->run()
+#3 {main}
+
+Next yii\web\NotFoundHttpException: Page not found. in /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/web/Application.php:115
+Stack trace:
+#0 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/base/Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#1 /home/farid/NetBeansProjects/admin/web/index.php(11): yii\base\Application->run()
+#2 {main}
+2019-06-09 15:31:55 [::1][-][-][info][application] $_GET = []
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    'PHPSESSID' => '91qf0pmmrab3m450h0foram0je'
+    '_csrf' => 'd7c8ca248bcb32573bd5ab824671c75d922ae70b022f0f89b2b4bb702bc030c3a:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"SUGJB9Q073HwxWUeV81CwH_pvJTmirae\";}'
+]
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/home/farid/NetBeansProjects/admin/web'
+    'REMOTE_ADDR' => '::1'
+    'REMOTE_PORT' => '46216'
+    'SERVER_SOFTWARE' => 'PHP 7.2.19-0ubuntu0.18.04.1 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '8080'
+    'REQUEST_URI' => '/'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/farid/NetBeansProjects/admin/web/index.php'
+    'PHP_SELF' => '/index.php'
+    'HTTP_HOST' => 'localhost:8080'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64; rv:67.0) Gecko/20100101 Firefox/67.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_DNT' => '1'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_COOKIE' => 'PHPSESSID=91qf0pmmrab3m450h0foram0je; _csrf=d7c8ca248bcb32573bd5ab824671c75d922ae70b022f0f89b2b4bb702bc030c3a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22SUGJB9Q073HwxWUeV81CwH_pvJTmirae%22%3B%7D'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'REQUEST_TIME_FLOAT' => 1560094315.3019
+    'REQUEST_TIME' => 1560094315
+]
+2019-06-09 15:37:21 [::1][-][-][error][yii\web\HttpException:404] yii\base\InvalidRouteException: Unable to resolve the request "". in /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/base/Module.php:537
+Stack trace:
+#0 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/web/Application.php(103): yii\base\Module->runAction('', Array)
+#1 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/base/Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 /home/farid/NetBeansProjects/admin/web/index.php(11): yii\base\Application->run()
+#3 {main}
+
+Next yii\web\NotFoundHttpException: Page not found. in /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/web/Application.php:115
+Stack trace:
+#0 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/base/Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#1 /home/farid/NetBeansProjects/admin/web/index.php(11): yii\base\Application->run()
+#2 {main}
+2019-06-09 15:37:21 [::1][-][-][info][application] $_GET = []
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    'PHPSESSID' => '91qf0pmmrab3m450h0foram0je'
+    '_csrf' => 'd7c8ca248bcb32573bd5ab824671c75d922ae70b022f0f89b2b4bb702bc030c3a:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"SUGJB9Q073HwxWUeV81CwH_pvJTmirae\";}'
+]
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/home/farid/NetBeansProjects/admin/web'
+    'REMOTE_ADDR' => '::1'
+    'REMOTE_PORT' => '46456'
+    'SERVER_SOFTWARE' => 'PHP 7.2.19-0ubuntu0.18.04.1 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '8080'
+    'REQUEST_URI' => '/'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/farid/NetBeansProjects/admin/web/index.php'
+    'PHP_SELF' => '/index.php'
+    'HTTP_HOST' => 'localhost:8080'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64; rv:67.0) Gecko/20100101 Firefox/67.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_DNT' => '1'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_COOKIE' => 'PHPSESSID=91qf0pmmrab3m450h0foram0je; _csrf=d7c8ca248bcb32573bd5ab824671c75d922ae70b022f0f89b2b4bb702bc030c3a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22SUGJB9Q073HwxWUeV81CwH_pvJTmirae%22%3B%7D'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'REQUEST_TIME_FLOAT' => 1560094641.1665
+    'REQUEST_TIME' => 1560094641
+]

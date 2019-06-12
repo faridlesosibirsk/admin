@@ -1840,3 +1840,358 @@ $_SERVER = [
     'REQUEST_TIME_FLOAT' => 1560094641.1665
     'REQUEST_TIME' => 1560094641
 ]
+2019-06-12 16:00:24 [-][-][-][error][yii\console\UnknownCommandException] yii\base\InvalidRouteException: Unable to resolve the request "serv". in /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/base/Module.php:537
+Stack trace:
+#0 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/console/Application.php(180): yii\base\Module->runAction('serv', Array)
+#1 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/console/Application.php(147): yii\console\Application->runAction('serv', Array)
+#2 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/base/Application.php(386): yii\console\Application->handleRequest(Object(yii\console\Request))
+#3 /home/farid/NetBeansProjects/admin/yii(20): yii\base\Application->run()
+#4 {main}
+
+Next yii\console\UnknownCommandException: Unknown command "serv". in /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/console/Application.php:183
+Stack trace:
+#0 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/console/Application.php(147): yii\console\Application->runAction('serv', Array)
+#1 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/base/Application.php(386): yii\console\Application->handleRequest(Object(yii\console\Request))
+#2 /home/farid/NetBeansProjects/admin/yii(20): yii\base\Application->run()
+#3 {main}
+2019-06-12 16:00:24 [-][-][-][info][application] $_GET = []
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = []
+
+$_SERVER = [
+    'LS_COLORS' => 'rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.Z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:'
+    'XDG_CONFIG_HOME' => '/home/farid/.config'
+    'LESSCLOSE' => '/usr/bin/lesspipe %s %s'
+    'XDG_MENU_PREFIX' => 'lxqt-'
+    'LXQT_SESSION_CONFIG' => 'session'
+    'LANG' => 'ru_RU.UTF-8'
+    'DISPLAY' => ':0'
+    'GTK_OVERLAY_SCROLLING' => '0'
+    'GTK_CSD' => '0'
+    'XDG_VTNR' => '1'
+    'PAM_KWALLET5_LOGIN' => '/run/user/1000/kwallet5.socket'
+    'SSH_AUTH_SOCK' => '/tmp/ssh-gLzRfAtkdcKm/agent.1278'
+    'MANDATORY_PATH' => '/usr/share/gconf/Lubuntu.mandatory.path'
+    'S_COLORS' => 'auto'
+    'XDG_SESSION_ID' => '5'
+    'USER' => 'farid'
+    'DESKTOP_SESSION' => 'Lubuntu'
+    'DEFAULTS_PATH' => '/usr/share/gconf/Lubuntu.default.path'
+    'QT_QPA_PLATFORMTHEME' => 'lxqt'
+    'PWD' => '/home/farid/NetBeansProjects/admin'
+    'HOME' => '/home/farid'
+    'BROWSER' => 'qupzilla'
+    'SSH_AGENT_PID' => '1347'
+    'QT_ACCESSIBILITY' => '1'
+    'XDG_SESSION_TYPE' => 'x11'
+    'QT_PLATFORM_PLUGIN' => 'lxqt'
+    'XDG_DATA_DIRS' => '/usr/share/Lubuntu:/usr/local/share:/usr/share:/var/lib/snapd/desktop'
+    'XDG_SESSION_DESKTOP' => ''
+    'SAL_USE_VCLPLUGIN' => 'kde4'
+    'TERM' => 'xterm'
+    'SHELL' => '/bin/bash'
+    'XDG_SESSION_CLASS' => 'user'
+    'XDG_SEAT_PATH' => '/org/freedesktop/DisplayManager/Seat0'
+    'XDG_CURRENT_DESKTOP' => 'LXQt'
+    'GPG_AGENT_INFO' => '/run/user/1000/gnupg/S.gpg-agent:0:1'
+    'XDG_SEAT' => 'seat0'
+    'SHLVL' => '1'
+    'COLORFGBG' => '15;0'
+    'LANGUAGE' => ''
+    'WINDOWID' => '0'
+    'XDG_CACHE_HOME' => '/home/farid/.cache'
+    'LOGNAME' => 'farid'
+    'DBUS_SESSION_BUS_ADDRESS' => 'unix:path=/run/user/1000/bus'
+    'XDG_RUNTIME_DIR' => '/run/user/1000'
+    'XAUTHORITY' => '/home/farid/.Xauthority'
+    'XDG_DATA_HOME' => '/home/farid/.local/share'
+    'XDG_SESSION_PATH' => '/org/freedesktop/DisplayManager/Session1'
+    'XDG_CONFIG_DIRS' => '/etc/xdg/xdg-Lubuntu:/etc/xdg'
+    'PATH' => '/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin'
+    'LESSOPEN' => '| /usr/bin/lesspipe %s'
+    '_' => './yii'
+    'OLDPWD' => '/home/farid/NetBeansProjects/admin/web'
+    'PHP_SELF' => './yii'
+    'SCRIPT_NAME' => './yii'
+    'SCRIPT_FILENAME' => './yii'
+    'PATH_TRANSLATED' => './yii'
+    'DOCUMENT_ROOT' => ''
+    'REQUEST_TIME_FLOAT' => 1560355224.5764
+    'REQUEST_TIME' => 1560355224
+    'argv' => [
+        0 => './yii'
+        1 => 'serv'
+    ]
+    'argc' => 2
+]
+2019-06-12 16:00:34 [-][-][-][error][yii\console\UnknownCommandException] yii\base\InvalidRouteException: Unable to resolve the request "servr". in /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/base/Module.php:537
+Stack trace:
+#0 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/console/Application.php(180): yii\base\Module->runAction('servr', Array)
+#1 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/console/Application.php(147): yii\console\Application->runAction('servr', Array)
+#2 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/base/Application.php(386): yii\console\Application->handleRequest(Object(yii\console\Request))
+#3 /home/farid/NetBeansProjects/admin/yii(20): yii\base\Application->run()
+#4 {main}
+
+Next yii\console\UnknownCommandException: Unknown command "servr". in /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/console/Application.php:183
+Stack trace:
+#0 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/console/Application.php(147): yii\console\Application->runAction('servr', Array)
+#1 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/base/Application.php(386): yii\console\Application->handleRequest(Object(yii\console\Request))
+#2 /home/farid/NetBeansProjects/admin/yii(20): yii\base\Application->run()
+#3 {main}
+2019-06-12 16:00:34 [-][-][-][info][application] $_GET = []
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = []
+
+$_SERVER = [
+    'LS_COLORS' => 'rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.Z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:'
+    'XDG_CONFIG_HOME' => '/home/farid/.config'
+    'LESSCLOSE' => '/usr/bin/lesspipe %s %s'
+    'XDG_MENU_PREFIX' => 'lxqt-'
+    'LXQT_SESSION_CONFIG' => 'session'
+    'LANG' => 'ru_RU.UTF-8'
+    'DISPLAY' => ':0'
+    'GTK_OVERLAY_SCROLLING' => '0'
+    'GTK_CSD' => '0'
+    'XDG_VTNR' => '1'
+    'PAM_KWALLET5_LOGIN' => '/run/user/1000/kwallet5.socket'
+    'SSH_AUTH_SOCK' => '/tmp/ssh-gLzRfAtkdcKm/agent.1278'
+    'MANDATORY_PATH' => '/usr/share/gconf/Lubuntu.mandatory.path'
+    'S_COLORS' => 'auto'
+    'XDG_SESSION_ID' => '5'
+    'USER' => 'farid'
+    'DESKTOP_SESSION' => 'Lubuntu'
+    'DEFAULTS_PATH' => '/usr/share/gconf/Lubuntu.default.path'
+    'QT_QPA_PLATFORMTHEME' => 'lxqt'
+    'PWD' => '/home/farid/NetBeansProjects/admin'
+    'HOME' => '/home/farid'
+    'BROWSER' => 'qupzilla'
+    'SSH_AGENT_PID' => '1347'
+    'QT_ACCESSIBILITY' => '1'
+    'XDG_SESSION_TYPE' => 'x11'
+    'QT_PLATFORM_PLUGIN' => 'lxqt'
+    'XDG_DATA_DIRS' => '/usr/share/Lubuntu:/usr/local/share:/usr/share:/var/lib/snapd/desktop'
+    'XDG_SESSION_DESKTOP' => ''
+    'SAL_USE_VCLPLUGIN' => 'kde4'
+    'TERM' => 'xterm'
+    'SHELL' => '/bin/bash'
+    'XDG_SESSION_CLASS' => 'user'
+    'XDG_SEAT_PATH' => '/org/freedesktop/DisplayManager/Seat0'
+    'XDG_CURRENT_DESKTOP' => 'LXQt'
+    'GPG_AGENT_INFO' => '/run/user/1000/gnupg/S.gpg-agent:0:1'
+    'XDG_SEAT' => 'seat0'
+    'SHLVL' => '1'
+    'COLORFGBG' => '15;0'
+    'LANGUAGE' => ''
+    'WINDOWID' => '0'
+    'XDG_CACHE_HOME' => '/home/farid/.cache'
+    'LOGNAME' => 'farid'
+    'DBUS_SESSION_BUS_ADDRESS' => 'unix:path=/run/user/1000/bus'
+    'XDG_RUNTIME_DIR' => '/run/user/1000'
+    'XAUTHORITY' => '/home/farid/.Xauthority'
+    'XDG_DATA_HOME' => '/home/farid/.local/share'
+    'XDG_SESSION_PATH' => '/org/freedesktop/DisplayManager/Session1'
+    'XDG_CONFIG_DIRS' => '/etc/xdg/xdg-Lubuntu:/etc/xdg'
+    'PATH' => '/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin'
+    'LESSOPEN' => '| /usr/bin/lesspipe %s'
+    '_' => './yii'
+    'OLDPWD' => '/home/farid/NetBeansProjects/admin/web'
+    'PHP_SELF' => './yii'
+    'SCRIPT_NAME' => './yii'
+    'SCRIPT_FILENAME' => './yii'
+    'PATH_TRANSLATED' => './yii'
+    'DOCUMENT_ROOT' => ''
+    'REQUEST_TIME_FLOAT' => 1560355234.2235
+    'REQUEST_TIME' => 1560355234
+    'argv' => [
+        0 => './yii'
+        1 => 'servr'
+    ]
+    'argc' => 2
+]
+2019-06-12 16:00:40 [-][-][-][error][yii\base\InvalidArgumentException] yii\base\InvalidArgumentException: Invalid path alias: @micro/commands in /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/BaseYii.php:154
+Stack trace:
+#0 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/base/Module.php(257): yii\BaseYii::getAlias('@micro/commands')
+#1 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/console/controllers/HelpController.php(246): yii\base\Module->getControllerPath()
+#2 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/console/controllers/HelpController.php(175): yii\console\controllers\HelpController->getModuleCommands(Object(yii\console\Application))
+#3 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/console/controllers/HelpController.php(187): yii\console\controllers\HelpController->getCommands()
+#4 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/console/controllers/HelpController.php(293): yii\console\controllers\HelpController->getCommandDescriptions()
+#5 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/console/controllers/HelpController.php(67): yii\console\controllers\HelpController->getDefaultHelp()
+#6 [internal function]: yii\console\controllers\HelpController->actionIndex(NULL)
+#7 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/base/InlineAction.php(57): call_user_func_array(Array, Array)
+#8 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/base/Controller.php(157): yii\base\InlineAction->runWithParams(Array)
+#9 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/console/Controller.php(148): yii\base\Controller->runAction('', Array)
+#10 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/base/Module.php(528): yii\console\Controller->runAction('', Array)
+#11 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/console/Application.php(180): yii\base\Module->runAction('', Array)
+#12 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/console/Application.php(147): yii\console\Application->runAction('', Array)
+#13 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/base/Application.php(386): yii\console\Application->handleRequest(Object(yii\console\Request))
+#14 /home/farid/NetBeansProjects/admin/yii(20): yii\base\Application->run()
+#15 {main}
+2019-06-12 16:00:40 [-][-][-][info][application] $_GET = []
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = []
+
+$_SERVER = [
+    'LS_COLORS' => 'rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.Z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:'
+    'XDG_CONFIG_HOME' => '/home/farid/.config'
+    'LESSCLOSE' => '/usr/bin/lesspipe %s %s'
+    'XDG_MENU_PREFIX' => 'lxqt-'
+    'LXQT_SESSION_CONFIG' => 'session'
+    'LANG' => 'ru_RU.UTF-8'
+    'DISPLAY' => ':0'
+    'GTK_OVERLAY_SCROLLING' => '0'
+    'GTK_CSD' => '0'
+    'XDG_VTNR' => '1'
+    'PAM_KWALLET5_LOGIN' => '/run/user/1000/kwallet5.socket'
+    'SSH_AUTH_SOCK' => '/tmp/ssh-gLzRfAtkdcKm/agent.1278'
+    'MANDATORY_PATH' => '/usr/share/gconf/Lubuntu.mandatory.path'
+    'S_COLORS' => 'auto'
+    'XDG_SESSION_ID' => '5'
+    'USER' => 'farid'
+    'DESKTOP_SESSION' => 'Lubuntu'
+    'DEFAULTS_PATH' => '/usr/share/gconf/Lubuntu.default.path'
+    'QT_QPA_PLATFORMTHEME' => 'lxqt'
+    'PWD' => '/home/farid/NetBeansProjects/admin'
+    'HOME' => '/home/farid'
+    'BROWSER' => 'qupzilla'
+    'SSH_AGENT_PID' => '1347'
+    'QT_ACCESSIBILITY' => '1'
+    'XDG_SESSION_TYPE' => 'x11'
+    'QT_PLATFORM_PLUGIN' => 'lxqt'
+    'XDG_DATA_DIRS' => '/usr/share/Lubuntu:/usr/local/share:/usr/share:/var/lib/snapd/desktop'
+    'XDG_SESSION_DESKTOP' => ''
+    'SAL_USE_VCLPLUGIN' => 'kde4'
+    'TERM' => 'xterm'
+    'SHELL' => '/bin/bash'
+    'XDG_SESSION_CLASS' => 'user'
+    'XDG_SEAT_PATH' => '/org/freedesktop/DisplayManager/Seat0'
+    'XDG_CURRENT_DESKTOP' => 'LXQt'
+    'GPG_AGENT_INFO' => '/run/user/1000/gnupg/S.gpg-agent:0:1'
+    'XDG_SEAT' => 'seat0'
+    'SHLVL' => '1'
+    'COLORFGBG' => '15;0'
+    'LANGUAGE' => ''
+    'WINDOWID' => '0'
+    'XDG_CACHE_HOME' => '/home/farid/.cache'
+    'LOGNAME' => 'farid'
+    'DBUS_SESSION_BUS_ADDRESS' => 'unix:path=/run/user/1000/bus'
+    'XDG_RUNTIME_DIR' => '/run/user/1000'
+    'XAUTHORITY' => '/home/farid/.Xauthority'
+    'XDG_DATA_HOME' => '/home/farid/.local/share'
+    'XDG_SESSION_PATH' => '/org/freedesktop/DisplayManager/Session1'
+    'XDG_CONFIG_DIRS' => '/etc/xdg/xdg-Lubuntu:/etc/xdg'
+    'PATH' => '/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin'
+    'LESSOPEN' => '| /usr/bin/lesspipe %s'
+    '_' => './yii'
+    'OLDPWD' => '/home/farid/NetBeansProjects/admin/web'
+    'PHP_SELF' => './yii'
+    'SCRIPT_NAME' => './yii'
+    'SCRIPT_FILENAME' => './yii'
+    'PATH_TRANSLATED' => './yii'
+    'DOCUMENT_ROOT' => ''
+    'REQUEST_TIME_FLOAT' => 1560355240.3852
+    'REQUEST_TIME' => 1560355240
+    'argv' => [
+        0 => './yii'
+    ]
+    'argc' => 1
+]
+2019-06-12 16:01:17 [-][-][-][error][yii\console\UnknownCommandException] yii\base\InvalidRouteException: Unable to resolve the request "server/start". in /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/base/Module.php:537
+Stack trace:
+#0 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/console/Application.php(180): yii\base\Module->runAction('server/start', Array)
+#1 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/console/Application.php(147): yii\console\Application->runAction('server/start', Array)
+#2 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/base/Application.php(386): yii\console\Application->handleRequest(Object(yii\console\Request))
+#3 /home/farid/NetBeansProjects/admin/yii(20): yii\base\Application->run()
+#4 {main}
+
+Next yii\console\UnknownCommandException: Unknown command "server/start". in /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/console/Application.php:183
+Stack trace:
+#0 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/console/Application.php(147): yii\console\Application->runAction('server/start', Array)
+#1 /home/farid/NetBeansProjects/admin/vendor/yiisoft/yii2/base/Application.php(386): yii\console\Application->handleRequest(Object(yii\console\Request))
+#2 /home/farid/NetBeansProjects/admin/yii(20): yii\base\Application->run()
+#3 {main}
+2019-06-12 16:01:17 [-][-][-][info][application] $_GET = []
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = []
+
+$_SERVER = [
+    'LS_COLORS' => 'rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.Z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:'
+    'XDG_CONFIG_HOME' => '/home/farid/.config'
+    'LESSCLOSE' => '/usr/bin/lesspipe %s %s'
+    'XDG_MENU_PREFIX' => 'lxqt-'
+    'LXQT_SESSION_CONFIG' => 'session'
+    'LANG' => 'ru_RU.UTF-8'
+    'DISPLAY' => ':0'
+    'GTK_OVERLAY_SCROLLING' => '0'
+    'GTK_CSD' => '0'
+    'XDG_VTNR' => '1'
+    'PAM_KWALLET5_LOGIN' => '/run/user/1000/kwallet5.socket'
+    'SSH_AUTH_SOCK' => '/tmp/ssh-gLzRfAtkdcKm/agent.1278'
+    'MANDATORY_PATH' => '/usr/share/gconf/Lubuntu.mandatory.path'
+    'S_COLORS' => 'auto'
+    'XDG_SESSION_ID' => '5'
+    'USER' => 'farid'
+    'DESKTOP_SESSION' => 'Lubuntu'
+    'DEFAULTS_PATH' => '/usr/share/gconf/Lubuntu.default.path'
+    'QT_QPA_PLATFORMTHEME' => 'lxqt'
+    'PWD' => '/home/farid/NetBeansProjects/admin'
+    'HOME' => '/home/farid'
+    'BROWSER' => 'qupzilla'
+    'SSH_AGENT_PID' => '1347'
+    'QT_ACCESSIBILITY' => '1'
+    'XDG_SESSION_TYPE' => 'x11'
+    'QT_PLATFORM_PLUGIN' => 'lxqt'
+    'XDG_DATA_DIRS' => '/usr/share/Lubuntu:/usr/local/share:/usr/share:/var/lib/snapd/desktop'
+    'XDG_SESSION_DESKTOP' => ''
+    'SAL_USE_VCLPLUGIN' => 'kde4'
+    'TERM' => 'xterm'
+    'SHELL' => '/bin/bash'
+    'XDG_SESSION_CLASS' => 'user'
+    'XDG_SEAT_PATH' => '/org/freedesktop/DisplayManager/Seat0'
+    'XDG_CURRENT_DESKTOP' => 'LXQt'
+    'GPG_AGENT_INFO' => '/run/user/1000/gnupg/S.gpg-agent:0:1'
+    'XDG_SEAT' => 'seat0'
+    'SHLVL' => '1'
+    'COLORFGBG' => '15;0'
+    'LANGUAGE' => ''
+    'WINDOWID' => '0'
+    'XDG_CACHE_HOME' => '/home/farid/.cache'
+    'LOGNAME' => 'farid'
+    'DBUS_SESSION_BUS_ADDRESS' => 'unix:path=/run/user/1000/bus'
+    'XDG_RUNTIME_DIR' => '/run/user/1000'
+    'XAUTHORITY' => '/home/farid/.Xauthority'
+    'XDG_DATA_HOME' => '/home/farid/.local/share'
+    'XDG_SESSION_PATH' => '/org/freedesktop/DisplayManager/Session1'
+    'XDG_CONFIG_DIRS' => '/etc/xdg/xdg-Lubuntu:/etc/xdg'
+    'PATH' => '/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin'
+    'LESSOPEN' => '| /usr/bin/lesspipe %s'
+    '_' => './yii'
+    'OLDPWD' => '/home/farid/NetBeansProjects/admin/web'
+    'PHP_SELF' => './yii'
+    'SCRIPT_NAME' => './yii'
+    'SCRIPT_FILENAME' => './yii'
+    'PATH_TRANSLATED' => './yii'
+    'DOCUMENT_ROOT' => ''
+    'REQUEST_TIME_FLOAT' => 1560355276.5963
+    'REQUEST_TIME' => 1560355276
+    'argv' => [
+        0 => './yii'
+        1 => 'server/start'
+    ]
+    'argc' => 2
+]
